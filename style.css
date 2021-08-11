@@ -8,4 +8,8 @@
     text-decoration: none;
     text-align: center;
     color: white;
-} 
+}
+.orange-btn:hover {
+	background-color:  rgb(255, 60, 0);
+	cursor: pointer;
+}
